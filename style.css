@@ -1,0 +1,60 @@
+.container1{
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    height: 30px;
+    width: 50px;
+    margin-left: 550px;
+}
+}
+.one{
+   color: #0000ff;
+}
+.two{
+  color:  #ff0000;
+}
+.three{
+    color: #009900
+}
+  
+.four{
+  color: #ffcc00;
+}
+h1{
+    text-align: center;
+    width: 400px;
+    margin-left: 300px;
+    margin-top: 0;
+}
+h2{
+    width: 200px;
+    line-height: 1.3;
+    font-size: 30px;
+    color: green;
+}
+
+h3{background-color: #009933;
+    color: white;
+    font-size: 40px;
+    padding: 60px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.image{
+    height: 450px;
+    width: 900px;
+    margin: 0;
+}
+
+
